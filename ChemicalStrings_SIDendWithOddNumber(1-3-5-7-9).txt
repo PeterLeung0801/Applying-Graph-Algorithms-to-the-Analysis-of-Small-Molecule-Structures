@@ -1,0 +1,2 @@
+CCN(CC)C(=O)c1cccnc1
+CCN1C(=O)NC(c2ccccc2)C1=O
